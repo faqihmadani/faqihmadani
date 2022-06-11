@@ -8,7 +8,7 @@ Skills: REACT / SVELTE / JS / HTML / CSS
 
 - 🌱 I’m currently learning NextJS and Sveltekit 
 
-![](https://komarev.com/ghpvc/?faqihmadani)
+![](https://komarev.com/ghpvc/?username=faqihmadani&style=for-the-badge)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faqihmadani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/madanifaqih/)  
 
