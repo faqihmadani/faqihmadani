@@ -1,15 +1,24 @@
-### Hi there 👋, my name is Faqih Madani
-#### I am Front End Developer
-![I am Front End Developer](https://i.ibb.co/M6mr6Dt/Twitter-header-1.jpg)
+## Hi there 👋
 
-I'm Faqih from Indonesia. I really enjoy learning frameworks like React and Svelte. I also enjoy UI/UX and design in general.
+### About Me :man:
+- :eyes: I am Faqih Madani, an Informatics student at Telkom University
+- :computer: I am a front end developer
+- :seedling: I am currently learning Next JS and Node JS
+- :soccer: Interests : Playing football, table tennis, and watching movies
 
-Skills: REACT / SVELTE / JS / HTML / CSS
+### Tech Stack 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-- 🌱 I’m currently learning NextJS and Sveltekit 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faqihmadani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/madanifaqih/)  
-
-
+### Contact Me :email:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faqihmadani123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/faqihmadani)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/madanifaqih)
 
