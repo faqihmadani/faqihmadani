@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am an informatics student at Telkom University, Bandung. I have a passion for developing websites and I thoroughly enjoy delving into various web technologies to build intriguing projects. Other than programming, I find joy in diverse activities such as watching anime, jogging, and playing table tennis with friends.
+I am an informatics student at Telkom University, Bandung. I have a passion for developing websites and I love exploring different web technologies to create interesting projects. Other than programming, I find joy in diverse activities such as watching anime, jogging, and playing table tennis with friends.
 
 * 🌍  I'm based in Bandung, West Java
 * 🖥️  See my portfolio at [My Portfolio Website](http://faqihmadani.my.id)
