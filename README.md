@@ -1,7 +1,7 @@
 <p align="center">
-  <img width="100" height="100" src="https://github.com/faqihmadani/faqihmadani/assets/76164968/ade6e05d-74ba-4b2f-a279-2f4847f4142e">
-  <img width="100" height="100" src="https://github.com/faqihmadani/faqihmadani/assets/76164968/f1475371-a275-49eb-823b-a973d60aae83">
-  <img width="100" height="100" src="https://github.com/faqihmadani/faqihmadani/assets/76164968/ade6e05d-74ba-4b2f-a279-2f4847f4142e">
+  <img width="50" height="50" src="https://github.com/faqihmadani/faqihmadani/assets/76164968/ade6e05d-74ba-4b2f-a279-2f4847f4142e">
+  <img width="50" height="50" src="https://github.com/faqihmadani/faqihmadani/assets/76164968/68e39365-5875-4ea3-a138-7ad6ec2019e1">
+  <img width="50" height="50" src="https://github.com/faqihmadani/faqihmadani/assets/76164968/ade6e05d-74ba-4b2f-a279-2f4847f4142e">
 </p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faqih Madani
